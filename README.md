@@ -1,4 +1,5 @@
-[![MasterHead](https://media.tenor.com/_i9AUV0dv_0AAAAC/welcome-banner.gif)]
+[![MasterHead](https://media.tenor.com/4ryx66tWEhcAAAAd/pixel-study.gif)]
+
 <h1 align="center">Hi 👋, I'm Nishi Maurya</h1>
 <h3 align="center">A passionate data analyst from India</h3>
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
